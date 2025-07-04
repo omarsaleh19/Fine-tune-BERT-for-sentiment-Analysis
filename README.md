@@ -66,15 +66,16 @@ Sample LIME explanation for a review:
 
 ## 📂 Structure
 
+```text
 project-folder/
 ├── README.md
 ├── DataCoach/
+│   ├── Fine_tune_BERT_Model_for_Sentiment_Analysis.ipynb
+│   ├── tf_model.h5_download
 │   └── sentiment_model/
 │       ├── config.json
 │       ├── special_tokens_map.json
 │       ├── tokenizer_config.json
-│       ├── vocab.txt
-│   ├── Fine_tune_BERT_Model_for_Se... 
-│   ├── tf_model.h5_download
+│       └── vocab.txt
 ├── Assets/
 │   └── lime_visualization.png
