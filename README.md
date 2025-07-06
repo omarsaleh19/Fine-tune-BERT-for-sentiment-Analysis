@@ -17,12 +17,12 @@ Developed in **Google Colab**, using **TensorFlow** and **Hugging Face Transform
 ---
 
 ## 🚀 Running the Project (Colab Workflow)
-1. Prepare the Project Directory.
-   Download the DataCoach directory:
+1. Prepare the Project Directory.  
+   Download the DataCoach directory.  
       - Open the link provided in the tf_model.h5_download file.
       - Download the file.
       - Place the downloaded file inside the sentiment_model directory.
-     
+           
 3. Upload the full project folder to your Google Drive.
 
 4. Open the notebook in Colab. It is structured into sequential steps (1–9).
