@@ -18,10 +18,10 @@ Developed in **Google Colab**, using **TensorFlow** and **Hugging Face Transform
 
 ## 🚀 Running the Project (Colab Workflow)
 1. Prepare the Project Directory
-   - Download the DataCoach directory:
-   - Open the link provided in the tf_model.h5_download file.
-   - Download the file.
-   - Place the downloaded file inside the sentiment_model directory.
+   Download the DataCoach directory:
+      - Open the link provided in the tf_model.h5_download file.
+      - Download the file.
+      - Place the downloaded file inside the sentiment_model directory.
      
 2. Upload the full project folder to your Google Drive.
 
@@ -39,10 +39,10 @@ Developed in **Google Colab**, using **TensorFlow** and **Hugging Face Transform
    Training (Step 6) is optional — a pre-trained model is provided.  
    - ⏱️ Training takes **at least 2 hours**, depending on your Colab runtime.
 
-6. Model Results and Visualization
-   - Step 7 – Model interpretability using LIME
-   - Step 8 – Model evaluation
-   - Step 9 – Live interactive predictions
+6. Model Results and Visualization:
+   - Step 7 – Model interpretability using LIME.
+   - Step 8 – Model evaluation.
+   - Step 9 – Live interactive predictions.
 
 ---
 
