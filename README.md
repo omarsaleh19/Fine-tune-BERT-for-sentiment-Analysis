@@ -17,7 +17,7 @@ Developed in **Google Colab**, using **TensorFlow** and **Hugging Face Transform
 ---
 
 ## 🚀 Running the Project (Colab Workflow)
-1. Prepare the Project Directory.  
+1. Prepare the Project Directory: 
    Download the DataCoach directory.  
       - Open the link provided in the tf_model.h5_download file.
       - Download the file.
